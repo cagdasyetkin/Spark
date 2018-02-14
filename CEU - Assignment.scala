@@ -25,8 +25,8 @@
 // MAGIC 
 // MAGIC Please fill in the CEU IDs for the members of your group:
 // MAGIC 
-// MAGIC  * CEU ID of member #1: **142730**
-// MAGIC  * CEU ID of member #2: **166700**
+// MAGIC  * CEU ID of member #1: xxxxx
+// MAGIC  * CEU ID of member #2: xxxxx
 // MAGIC 
 // MAGIC *You got to be in a group of 2 people.*
 
